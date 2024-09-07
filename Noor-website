@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>نور وفراس</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #ffe4e1;
+            color: #333;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+        }
+        h1 {
+            color: #ff69b4;
+        }
+        .container {
+            padding: 20px;
+        }
+        .header {
+            background-color: #ffb6c1;
+            padding: 10px;
+            border-bottom: 5px solid #ff69b4;
+        }
+        .content {
+            background-color: #fff;
+            border-radius: 10px;
+            padding: 20px;
+            margin: 20px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        }
+        .flowers {
+            width: 100px;
+        }
+        .footer {
+            background-color: #ffb6c1;
+            padding: 10px;
+            border-top: 5px solid #ff69b4;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>نور وفراس</h1>
+    </div>
+    <div class="container">
+        <div class="content">
+            <img src="https://example.com/your-image-path/hello-kitty.png" alt="Hello Kitty" class="flowers">
+            <h2>مرحبا!</h2>
+            <p>أنا نور، أحب هيلو كيتي وكل ما هو وردي. حبيبي فراس يشاركنا هذه اللحظات الجميلة.</p>
+            <p><strong>"I'm just a girl"</strong></p>
+            <p>أتمنى أن تستمتعوا بموقعنا وتشاركونا حبنا لزهورنا وهيلو كيتي!</p>
+        </div>
+    </div>
+    <div class="footer">
+        <p>&copy; 2024 نور وفراس</p>
+    </div>
+</body>
+</html>
